@@ -10,7 +10,7 @@ Fitur-fitur yang telah saya kembangkan antara lain :
  - Ubah Profile
  - Change Password
 
-#### Instalasi
+### Instalasi
 Clone repositori ke mesin lokal Anda:
 ```sh
 git clone https://github.com/username/app-rent-mobil.git
